@@ -3,7 +3,7 @@
 ## Student Details
 
 Name: Priyanshu Choudhary  
-Registration Number: 25BAI11225
+Registration Number: 25BAI11225    
 Course: CSE0001 Digital Literacy  
 Branch: Btech CSE (Artificial Intelligence & Machine Learning)   
 From - VIT BHOPAL UNIVERSITY    
