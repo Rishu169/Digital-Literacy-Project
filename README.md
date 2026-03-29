@@ -55,7 +55,7 @@ Tasks Performed:
 •⁠  ⁠Linked Google Form responses to Google Sheets  
 •⁠  ⁠Uploaded screenshots of all work  
 
-*Quiz Link:* [Digital Literacy Quiz](                  )
+*Quiz Link:* [Digital Literacy Quiz](https://forms.gle/ZPfcsFvq3r3svgZA8)
 
 
 ## TASK 4 – PROFESSIONAL EMAIL AND ETIQUETTE
